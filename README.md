@@ -1,4 +1,4 @@
-# JacksOrBetter
+# Jacks Or Better
  Jacks or Better Unity Game 
  Unity Version 2020.3.32f1
  
